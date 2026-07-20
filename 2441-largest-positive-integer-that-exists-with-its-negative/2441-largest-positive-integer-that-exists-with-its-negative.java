@@ -1,17 +1,22 @@
+import java.util.HashSet;
+
 class Solution {
 
     public int findMaxK(int[] nums) {
 
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int num : nums) {
+            set.add(num);
+        }
+
         int ans = -1;
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int num : nums) {
 
-            for (int j = 0; j < nums.length; j++) {
+            if (set.contains(-num)) {
 
-                if (nums[i] == -nums[j]) {
-
-                    ans = Math.max(ans, Math.abs(nums[i]));
-                }
+                ans = Math.max(ans, Math.abs(num));
             }
         }
 
