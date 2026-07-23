@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0015-3sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
