@@ -22,3 +22,5 @@ class Solution {
         return low;
     }
 }
+
+// Interview Pattern: Jab question me sorted array aur O(log n) ki constraint likhi ho, to turant Binary Search dimaag me aana chahiye.
