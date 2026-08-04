@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0035-search-insert-position) |
+| [1920-build-array-from-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1920-build-array-from-permutation) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
