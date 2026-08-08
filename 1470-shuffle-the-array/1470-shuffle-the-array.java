@@ -8,11 +8,21 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
 
-            ans[index++] = nums[i];
+            ans[index++] = nums[i];                     
 
             ans[index++] = nums[i + n];
         }
-
         return ans;
     }
 }
+
+/* ans[index] = nums[i];
+   index++;
+
+   ans[index] = nums[i + n];
+   index++;
+
+BOTH ARE SAME THING
+
+ ans[index++] = nums[i];                     
+ ans[index++] = nums[i + n]; */
