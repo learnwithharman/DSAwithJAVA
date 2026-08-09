@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0035-search-insert-position) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1672-richest-customer-wealth) |
