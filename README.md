@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
 |  |
 | ------- |
