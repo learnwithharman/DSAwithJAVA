@@ -13,3 +13,6 @@ class Solution {
         return maxAltitude;
     }
 }
+
+// Time: O(n)
+// Space: O(1)
