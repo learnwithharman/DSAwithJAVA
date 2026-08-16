@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0035-search-insert-position) |
+| [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
+| [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1929-concatenation-of-array) |
@@ -123,9 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
