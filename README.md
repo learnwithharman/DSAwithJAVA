@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1572-matrix-diagonal-sum) |
