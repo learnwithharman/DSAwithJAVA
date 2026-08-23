@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1854-maximum-population-year) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1929-concatenation-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Counting Sort
 |  |
 | ------- |
