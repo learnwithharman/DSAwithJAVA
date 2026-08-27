@@ -1,15 +1,9 @@
 class Solution {
-    public boolean checkIfPangram(String sentence) {
+    public boolean checkIfPangram(String s) {
 
-        boolean[] seen = new boolean[26];
+        for (char ch = 'a'; ch <= 'z'; ch++) {
 
-        for (int i = 0; i < sentence.length(); i++) {
-            char ch = sentence.charAt(i);
-            seen[ch - 'a'] = true;
-        }
-
-        for (int i = 0; i < 26; i++) {
-            if (!seen[i]) {
+            if (!s.contains(String.valueOf(ch))) {
                 return false;
             }
         }
