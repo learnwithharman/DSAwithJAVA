@@ -4,7 +4,7 @@ class Solution {
         int count =0;
         if(ruleKey.equals("type")) key=0;
         else if(ruleKey.equals("color")) key=1;
-        else if(ruleKey.equals("name")) key=2;
+        else key=2;
         for(List<String> s: items){
             if(s.get(key).equals(ruleValue)) count++;
 
