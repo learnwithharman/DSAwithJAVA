@@ -3,8 +3,8 @@ class Solution {
 
         int first = findFirst(nums, target);
         int last = findLast(nums, target);
-
-        return new int[]{first, last};
+        int[] ans = new int [] {first, last};
+        return ans;
     }
 
     // First occurrence
