@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0566-reshape-the-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
