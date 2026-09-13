@@ -7,8 +7,8 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start) / 2;
             // 1D index ko 2D index mein convert
-            int row = mid / cols; // rows bhi use kr skte h i.e.    int row = mid / rows;
-            int col = mid % cols;                               //  int col = mid % rows;
+            int row = mid / cols;
+            int col = mid % cols;                              
             if (matrix[row][col] == target) {
                 return true;
             }
