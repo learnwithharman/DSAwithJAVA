@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0441-arranging-coins) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 ## Ternary Search
 |  |
