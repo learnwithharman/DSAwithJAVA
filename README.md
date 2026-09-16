@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1095-find-in-mountain-array) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
