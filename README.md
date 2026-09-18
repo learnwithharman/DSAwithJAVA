@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 ## Ternary Search
 |  |
