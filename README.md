@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1854-maximum-population-year](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1854-maximum-population-year) |
 ## Bit Manipulation
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
