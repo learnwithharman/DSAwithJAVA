@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1095-find-in-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
