@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1095-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
