@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1672-richest-customer-wealth) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
+| [1528-shuffle-string](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
