@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0977-squares-of-a-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0125-valid-palindrome) |
 | [1528-shuffle-string](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
