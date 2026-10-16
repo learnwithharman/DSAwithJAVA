@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0680-valid-palindrome-ii) |
