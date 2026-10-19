@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0888-fair-candy-swap) |
