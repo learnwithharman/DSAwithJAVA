@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1871-jump-game-vii](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/learnwithharman/DSAwithJAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
@@ -211,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/0005-longest-palindromic-substring) |
 | [1668-maximum-repeating-substring](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1871-jump-game-vii) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/learnwithharman/DSAwithJAVA/tree/master/1871-jump-game-vii) |
 ## Matrix
 |  |
 | ------- |
